@@ -1,0 +1,3 @@
+[submodule "feature-reliance"]
+	path = feature-reliance
+	url = https://github.com/tomburgert/feature-reliance.git
